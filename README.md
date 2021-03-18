@@ -15,4 +15,4 @@ The main purpose of building this was to work on my Javascript skills, particula
 By grouping each winning combination into an array of arrays, I was able to loop through each combination and check for wins using the Array.every() method. This allowed me to eliminate the long, repeptive conditional and made the code much cleaner.
 
 ## Lessons Learned:
-I learned about evt.target, which made it much easier to target paricular elements of the DOM. I also became more comfortable with the use of javascript objects, array methods, and event listeners.
+I learned about evt.target, which made it much easier to target particular elements of the DOM. I also became more comfortable with the use of javascript objects, array methods, and event listeners.
