@@ -1,7 +1,7 @@
 # Tic-tac-toe
 A simple Tic-tac-toe game built using HTML, CSS, and vanilla JS. 
 
-**Link to project:** 
+**Link to project:** https://katiemdev.github.io/tic-tac-toe/.
 
 ![tic-tac-toe-screenshot](/img/ttt.png)
 
